@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Выручка, руб",
+    "today": 500521,
+    "yesterday": 480521,
+    "selected_day": 4805121
+  },
+  {
+    "id": 1,
+    "name": "Наличные",
+    "today": 300000,
+    "yesterday": 300000,
+    "selected_day": 300000
+  },
+  {
+    "id": 2,
+    "name": "Безналичный расчет",
+    "today": 100000,
+    "yesterday": 100000,
+    "selected_day": 100000
+  },
+  {
+    "id": 3,
+    "name": "Кредитные карты",
+    "today": 100521,
+    "yesterday": 100521,
+    "selected_day": 100521
+  },
+  {
+    "id": 4,
+    "name": "Средний чек, руб",
+    "today": 1300,
+    "yesterday": 900,
+    "selected_day": 900
+  },
+  {
+    "id": 5,
+    "name": "Средний гость, руб",
+    "today": 1200,
+    "yesterday": 800,
+    "selected_day": 800
+  },
+  {
+    "id": 6,
+    "name": "Удаления из чека (после оплаты), руб",
+    "today": 1000,
+    "yesterday": 1100,
+    "selected_day": 900
+  },
+  {
+    "id": 7,
+    "name": "Удаления из чека (до оплаты), руб",
+    "today": 1300,
+    "yesterday": 1300,
+    "selected_day": 900
+  },
+  {
+    "id": 8,
+    "name": "Количество чеков",
+    "today": 34,
+    "yesterday": 36,
+    "selected_day": 34
+  },
+  {
+    "id": 9,
+    "name": "Количество гостей",
+    "today": 34,
+    "yesterday": 36,
+    "selected_day": 32
+  }
+]
